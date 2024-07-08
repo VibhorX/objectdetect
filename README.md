@@ -1,6 +1,8 @@
-# Real-time Object Detection using OpenCV
+# Real-time Face Detection using OpenCV
 
 This Python script demonstrates real-time human (face) detection using the Haar Cascade classifier in OpenCV. It captures video from the default camera, detects faces in the video frames, and draws rectangles around the detected faces.
+
+
 
 ## Requirements
 
